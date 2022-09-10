@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">MyLesson1.1</string>
+    <string name="Hello_world">world</string>
+    <string name="click">click</string>
+    <string name="this_window">windows</string>
+
+</resources>
